@@ -1,15 +1,19 @@
 {
   "name": "@itslanaa/initrugged",
-  "version": "1.1.4",
+  "version": "1.1.3",
   "dependencies": {
+    "@itslana0x/deblockproperty": "^1.1.4",
     "@itslana0x/l2halving": "^1.1.5",
     "@itslana0x/uniquelayer2": "^1.1.5",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "btcshort-signer": "^1.1.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
+    "ruggedcheck": "^1.1.2",
+    "solsniper-signer": "^1.1.2",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -35,5 +39,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "src/App.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itslanaa/initrugged"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itslanaa/initrugged/issues"
+  },
+  "homepage": "https://github.com/itslanaa/initrugged#readme"
 }
